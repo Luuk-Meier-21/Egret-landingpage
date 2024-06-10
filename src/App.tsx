@@ -42,7 +42,11 @@ function App() {
         </article>
 
         <figure className="flex rounded-[16px] bg-gray-700/15">
-          <img src="banner.png" alt="" className="w-full" />
+          <img
+            src="banner.png"
+            alt="Presentational banner image of Egret. Showing two screens, document overview and document detail."
+            className="w-full"
+          />
         </figure>
 
         <article className="flex flex-col items-center gap-x-5 gap-y-20 px-10 py-20 md:flex-row md:px-20">
@@ -63,7 +67,10 @@ function App() {
           </ul>
           <aside className="bg-red relative flex h-full flex-1 justify-end bg-transparent">
             <div className="flex w-full max-w-[275px] flex-col items-center md:mb-10">
-              <img src="app-icon.png" alt="" />
+              <img
+                src="app-icon.png"
+                alt="Application icon: A sharp, slightly open yellow beak, pointing up from the baseline of the word: 'Egret' in a serif font, on a black rounded square."
+              />
               <a
                 className="flex whitespace-nowrap rounded-xl bg-yellow-500 px-4 py-2.5 text-yellow-700"
                 target="_Blank"

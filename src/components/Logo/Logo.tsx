@@ -5,8 +5,8 @@ function Logo({}: LogoProps) {
     <a href="/" className="">
       <img
         className="h-7.5 mr-auto w-auto"
-        src="/src/assets/logo.svg"
-        alt="An pointy open yellow beak pointing up from the baseline of text spelling 'Egret' in a serif font."
+        src="logo.svg"
+        alt="A sharp, slightly open yellow beak, pointing up from the baseline of the word: 'Egret' in a serif font."
       />
     </a>
   );
