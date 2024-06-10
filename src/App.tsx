@@ -2,8 +2,8 @@ import Logo from "./components/Logo/Logo";
 
 const USPS = [
   {
-    title: "Screen reader first",
-    text: "Egret is designed with a screen reader first approach.",
+    title: "Aria first",
+    text: "Egret is designed with a aria first approach.",
   },
   {
     title: "Opinionated",
