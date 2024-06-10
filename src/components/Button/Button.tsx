@@ -1,10 +1,5 @@
 import clsx from "clsx";
-import {
-  ComponentProps,
-  ComponentPropsWithoutRef,
-  PropsWithoutRef,
-  ReactNode,
-} from "react";
+import { ComponentPropsWithoutRef, ReactNode } from "react";
 
 type ElementKeys = "a" | "button";
 type ButtonProps<T extends ElementKeys> = {
