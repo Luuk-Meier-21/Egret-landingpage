@@ -34,7 +34,7 @@ function App() {
           <a
             className="flex whitespace-nowrap rounded-xl bg-yellow-500 px-4 py-2.5 text-yellow-700"
             target="_Blank"
-            href="https://drive.usercontent.google.com/download?id=1CZO-5OL_WKDTUfP7oqUJG7xvD8mStLaI&export=download&authuser=0"
+            href="https://drive.google.com/file/d/1Z7PSu70u1QVAlbCFWOKy8NFmOKDNqj2K/view?usp=sharing"
             download="installer-egret-universal.dmg"
           >
             Get Egret for MacOS
