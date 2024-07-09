@@ -3,15 +3,15 @@ import Logo from "./components/Logo/Logo";
 const USPS = [
   {
     title: "Aria first",
-    text: "Egret is designed with a aria first approach.",
+    text: "Egret is designed with a aria first approach. Accessibiliy for screenreader users as its highest priority.",
   },
   {
     title: "Opinionated",
-    text: "Experience over aesthetics, Egret pushes users to think how its works something works instead of how looks.",
+    text: "Experience over aesthetics, Egret pushes users to think about how something works, instead of how looks.",
   },
   {
     title: "Simplicity by design",
-    text: "Egret isn't your all-in-one design tool. It strives to provide an accessible prototyping experience, and nothing else..",
+    text: "Egret isn't your all-in-one design tool. It strives to provide an accessible prototyping experience, and nothing else.",
   },
 ] as const;
 
